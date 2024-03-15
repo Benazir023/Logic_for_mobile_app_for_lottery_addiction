@@ -11,9 +11,9 @@ We'll build functions that can answer users questions like:
 
 We managed to write four functions to help us meet our objectives that were as follows:
 
-    one_ticket_probability() — calculates the probability of winning the big prize with a single ticket
-    check_historical_occurrence() — checks whether a certain combination has occurred in the Canada lottery data set
-    multi_ticket_prob() — calculates the probability for any number of tickets between 1 and 13,983,816
-    prob_less6() — calculates the probability of having three, four or five winning numbers
+     i)one_ticket_probability() — calculates the probability of winning the big prize with a single ticket
+    ii)check_historical_occurrence() — checks whether a certain combination has occurred in the Canada lottery data set
+   iii)multi_ticket_prob() — calculates the probability for any number of tickets between 1 and 13,983,816
+    iv)prob_less6() — calculates the probability of having three, four or five winning numbers
 
 Possible features for a second version of the app include: - Improve the probability_less6() function to show the probabilities for having two winning numbers as well. - Making the outputs even easier to understand by adding fun analogies (for example, we can find probabilities for strange events and compare with the chances of winning in lottery; for instance, we can output something along the lines “You are 100 times more likely to be the victim of a shark attack than winning the lottery”). - Combine the one_ticket_probability() and check_historical_occurrence() to output information on probability and historical occurrence at the same time.
