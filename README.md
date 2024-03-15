@@ -6,9 +6,9 @@ We'll apply concepts including:
 
     
 We'll build functions that can answer users questions like:<br />
-    - What is the probability of winning the big prize with a single ticket?<br />
-    - What is the probability of winning the big prize if we play 40 different tickets (or any other number)?<br />
-    - What is the probability of having at least five (or four, or three, or two) winning numbers on a single ticket?<br />
+- What is the probability of winning the big prize with a single ticket?<br />
+- What is the probability of winning the big prize if we play 40 different tickets (or any other number)?<br />
+- What is the probability of having at least five (or four, or three, or two) winning numbers on a single ticket?<br />
 
 We managed to write four functions to help us meet our objectives that were as follows:<br />
 
