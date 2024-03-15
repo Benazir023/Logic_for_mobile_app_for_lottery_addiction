@@ -1,8 +1,9 @@
-As a data analyst at a medical institute, I've been assigned to assist in the development of a mobile app intended to guide lottery addicts through exercises that will let them better estimate their chances of winning.We'll work collaboratively with engineers & here we're going to build a logic for the app aimed at helping lottery addicts realistically understand their chances of winning using probabilities. Hopefully, the app will help the addicts realize that buying too many tickets will do little to improve their chances of winning thus stopping them from buying the tickets in an unhealthy manner. 
-We'll apply concepts including:
+As a data analyst at a medical institute, I've been assigned to assist in the development of a mobile app intended to guide lottery addicts through exercises that will let them better estimate their chances of winning.We'll work collaboratively with engineers & here we're going to build a logic for the app aimed at helping lottery addicts realistically understand their chances of winning using probabilities. Hopefully, the app will help the addicts realize that buying too many tickets will do little to improve their chances of winning thus stopping them from buying the tickets in an unhealthy manner. <br />
+We'll apply concepts including:   i)one_ticket_probability() — calculates the probability of winning the big prize with a single ticket
      i)calculating theoretical and empirical probabilities <br />
     ii)use of probability rules to calculate different probabilities <br />
     iii)use of combinations and permutations to count the sizes of sample spaces <br />
+
     
 We'll build functions that can answer users questions like:
     - What is the probability of winning the big prize with a single ticket?
